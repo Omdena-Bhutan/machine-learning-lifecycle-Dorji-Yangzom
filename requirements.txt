@@ -1,0 +1,10 @@
+dvc
+mlflow
+torch
+transformers
+datasets
+scikit-learn
+pandas
+numpy
+flask
+pytest
